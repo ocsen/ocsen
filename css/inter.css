@@ -1,0 +1,464 @@
+body{
+	font-family: 'Lucida Grande','Î¢ÈíÑÅºÚ';
+	background: url(http://img03.taobaocdn.com/tps/i3/T14vsgXfpeXXbrbesE-1920-12.png) repeat-y;
+}
+.head-con .logo,
+.content .moudle .sign,
+.footer .icon{
+	background: url(http://img02.taobaocdn.com/tps/i2/T1Kyv.XbXkXXXkZ72h-172-84.png) no-repeat top center;
+}
+.head{
+	width:100%;	
+	height: 50px;
+	color: #fff;
+	border-bottom:1px solid #fff;
+	background-image:-webkit-gradient(linear,0% 0%, 0% 60%, from(#FFFFFF), to(#000000), color-stop(0.5,#030000),color-stop(0.0,#4F4D4D));
+	-moz-box-shadow:1px 4px 10px #333333; -webkit-box-shadow:1px 4px 10px #333333; box-shadow:1px 4px 10px #333333; 
+	position: fixed;
+	z-index: 100;
+}
+.content{
+	width: 100%;
+	min-height: 1050px;
+	padding-top: 50px;
+	color: #333;
+	
+}
+.footer{
+	width: 100%;
+	background-color: #2b2b2b;
+	margin: 0 auto;
+	float: left;
+	margin-top: 30px;
+	border-top: 1px solid #fff;
+	color: #fff;
+}
+.footer .rule{
+	width: 100%;
+	background: url(http://img03.taobaocdn.com/tps/i3/T1bNAjXdBbXXcXLI2h-50-11.png) repeat-x;
+	height:11px;
+	margin-bottom: 15px;
+	margin-top: -12px;
+}
+.footer .copyright{
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 13px;
+}
+.footer .contact{
+	float: left;
+	font-size: 12px;
+	margin-top: 9px;
+}
+.footer .contact a{
+	color: #fff;
+	line-height: 22px;
+	margin: 0px 10px;
+	display: inline-block;
+}
+.footer .design{
+	float: right;
+	margin-top: -38px;
+}
+.footer .icon{
+	background-position: 0 -34px;
+	width: 152px;
+	height: 49px;
+	margin: 0px auto;
+}
+.head-con{
+	width: 90%;
+	margin: 0 auto;
+}
+.head-con .logo{
+	float: left;
+	display: block;
+	text-decoration: none;
+	margin: 12px 0 0 10px;
+	width: 138px;
+	height: 26px;
+	background-position: 0 0;
+	text-indent: -70em;
+}
+.head-con .menu{
+	float: right;
+	margin-top: 15px;
+	line-height: 22px;
+	font-size: 18px;	
+}
+.head-con .menu li{
+	float: left;
+	width: 125px;
+	position: relative;
+	text-align: center;
+	position: relative;
+	text-align: center;
+}
+.head-con .menu li a{
+	color: #fff;
+}
+.head-con .menu .cur .tip{
+	border-color: #000000 #000000 #ffffff #000000;
+    border-style: solid; 
+    border-width:6px;  
+    font-size: 0;
+    height: 0;
+    line-height: 0;
+    line-height:0px;
+    display: inline-block;
+    text-align: center;
+    position: absolute;
+    top: 23px;
+    right: 54px;
+}
+.content .banner{
+	width:100%;
+	background: url(http://img02.taobaocdn.com/tps/i2/T1.3D5XchkXXcEsvrr-4-4.png) repeat;
+	height: 382px;
+	text-align: center;
+	border-bottom: 1px solid #cdcdcd;
+}
+.content .moudle{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.content .moudle .sign{
+	width: 28px;
+	height: 30px;
+	display: inline-block;
+	background-position: -143px 0;
+	float: left;
+	margin-right: 15px;
+}
+.content .moudle .intro{
+	line-height: 20px;
+	font-size: 14px;
+}
+.content .moudle h2{
+	font-size: 20px;
+	padding-bottom: 8px;
+	border-bottom: 2px solid  #d2d4d1;
+	text-shadow:1px 1px 5px #888b8b;
+}
+.content .moudle h2 a{
+	text-align: none;
+	color: #333;
+}
+.content .moudle .coleft{
+	width: 30%;
+	float: left;
+	position: relative;
+}
+.content .moudle .coright{
+	width: 70%;
+	float: left;
+}
+.content .moudle .coright a{
+	color: #666;
+}
+.content .moudle h3{
+	font-size: 16px;
+	padding-bottom: 8px;
+	margin-top: 10px;
+}
+.content .moudle .imageLink{
+	display: inline-block;
+	-moz-box-shadow:2px 2px 5px #4b4a4a;
+	-webkit-box-shadow:2px 2px 5px #4b4a4a; 
+	box-shadow:2px 2px 5px #4b4a4a;
+	width: 315px;
+	height: 150px;
+}
+.content .moudle .imageLink:hover img{
+    border:3px solid #e5e0e0;
+    padding:0;
+    -moz-transition: border-color 0s ease-in,color 0.2s ease-out; 
+    -webkit-transition: border-color 0s ease-in,color 0.2s ease-out; 
+    -o-transition: border-color 0s ease-in,color 0.2s ease-out; 
+    transition: border-color 0s ease-in,color 0.2s ease-out;
+    text-transform: uppercase;
+    -webkit-transform: rotate(1deg);
+    -moz-transform: rotate(1deg);
+    -o-transform: rotate(1deg);
+    -moz-box-shadow:0;
+	-webkit-box-shadow:0;
+	box-shadow:0;
+}
+.green{
+	color: #0d6e01!important;
+}
+.red{
+	color: #ff4106!important;
+	margin-left: 5px;
+}
+.content .moudle .update{
+	max-width: 250px;
+	background-color: #fffae0;
+	height: 20px;
+	padding: 2px 5px 0 10px;
+	-moz-box-shadow:2px 2px 3px #abaaaa; 
+	-webkit-box-shadow:2px 2px 5px #abaaaa; 
+	box-shadow:2px 2px 3px #abaaaa;
+}
+
+table {
+  max-width: 100%;
+  background-color: transparent;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  line-height: 18px;
+  text-align: left;
+  vertical-align: top;
+  border-top: 1px solid #dddddd;
+}
+
+.table th {
+  font-weight: bold;
+}
+
+.table thead th {
+  vertical-align: bottom;
+}
+
+.table caption + thead tr:first-child th,
+.table caption + thead tr:first-child td,
+.table colgroup + thead tr:first-child th,
+.table colgroup + thead tr:first-child td,
+.table thead:first-child tr:first-child th,
+.table thead:first-child tr:first-child td {
+  border-top: 0;
+}
+
+.table tbody + tbody {
+  border-top: 2px solid #dddddd;
+}
+
+.table-condensed th,
+.table-condensed td {
+  padding: 4px 5px;
+}
+
+.table-bordered {
+  border: 1px solid #dddddd;
+  border-collapse: separate;
+  *border-collapse: collapsed;
+  border-left: 0;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+          font-size: 14px;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border-left: 1px solid #dddddd;
+}
+
+.table-bordered caption + thead tr:first-child th,
+.table-bordered caption + tbody tr:first-child th,
+.table-bordered caption + tbody tr:first-child td,
+.table-bordered colgroup + thead tr:first-child th,
+.table-bordered colgroup + tbody tr:first-child th,
+.table-bordered colgroup + tbody tr:first-child td,
+.table-bordered thead:first-child tr:first-child th,
+.table-bordered tbody:first-child tr:first-child th,
+.table-bordered tbody:first-child tr:first-child td {
+  border-top: 0;
+}
+
+.table-bordered thead:first-child tr:first-child th:first-child,
+.table-bordered tbody:first-child tr:first-child td:first-child {
+  -webkit-border-top-left-radius: 4px;
+          border-top-left-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+}
+
+.table-bordered thead:first-child tr:first-child th:last-child,
+.table-bordered tbody:first-child tr:first-child td:last-child {
+  -webkit-border-top-right-radius: 4px;
+          border-top-right-radius: 4px;
+  -moz-border-radius-topright: 4px;
+}
+
+.table-bordered thead:last-child tr:last-child th:first-child,
+.table-bordered tbody:last-child tr:last-child td:first-child {
+  -webkit-border-radius: 0 0 0 4px;
+     -moz-border-radius: 0 0 0 4px;
+          border-radius: 0 0 0 4px;
+  -webkit-border-bottom-left-radius: 4px;
+          border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomleft: 4px;
+}
+
+.table-bordered thead:last-child tr:last-child th:last-child,
+.table-bordered tbody:last-child tr:last-child td:last-child {
+  -webkit-border-bottom-right-radius: 4px;
+          border-bottom-right-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+}
+
+.table-striped tbody tr:nth-child(odd) td,
+.table-striped tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+  vertical-align: middle;
+}
+
+.table tbody tr:hover td,
+.table tbody tr:hover th {
+  background-color: #f5f5f5;
+}
+
+table .span1 {
+  float: none;
+  width: 44px;
+  margin-left: 0;
+}
+
+table .span2 {
+  float: none;
+  width: 124px;
+  margin-left: 0;
+}
+
+table .span3 {
+  float: none;
+  width: 204px;
+  margin-left: 0;
+}
+
+table .span4 {
+  float: none;
+  width: 284px;
+  margin-left: 0;
+}
+
+table .span5 {
+  float: none;
+  width: 364px;
+  margin-left: 0;
+}
+
+table .span6 {
+  float: none;
+  width: 444px;
+  margin-left: 0;
+}
+
+table .span7 {
+  float: none;
+  width: 524px;
+  margin-left: 0;
+}
+
+table .span8 {
+  float: none;
+  width: 604px;
+  margin-left: 0;
+}
+
+table .span9 {
+  float: none;
+  width: 684px;
+  margin-left: 0;
+}
+
+table .span10 {
+  float: none;
+  width: 764px;
+  margin-left: 0;
+}
+
+table .span11 {
+  float: none;
+  width: 844px;
+  margin-left: 0;
+}
+
+table .span12 {
+  float: none;
+  width: 924px;
+  margin-left: 0;
+}
+
+table .span13 {
+  float: none;
+  width: 1004px;
+  margin-left: 0;
+}
+
+table .span14 {
+  float: none;
+  width: 1084px;
+  margin-left: 0;
+}
+
+table .span15 {
+  float: none;
+  width: 1164px;
+  margin-left: 0;
+}
+
+table .span16 {
+  float: none;
+  width: 1244px;
+  margin-left: 0;
+}
+
+table .span17 {
+  float: none;
+  width: 1324px;
+  margin-left: 0;
+}
+
+table .span18 {
+  float: none;
+  width: 1404px;
+  margin-left: 0;
+}
+
+table .span19 {
+  float: none;
+  width: 1484px;
+  margin-left: 0;
+}
+
+table .span20 {
+  float: none;
+  width: 1564px;
+  margin-left: 0;
+}
+
+table .span21 {
+  float: none;
+  width: 1644px;
+  margin-left: 0;
+}
+
+table .span22 {
+  float: none;
+  width: 1724px;
+  margin-left: 0;
+}
+
+table .span23 {
+  float: none;
+  width: 1804px;
+  margin-left: 0;
+}
+
+table .span24 {
+  float: none;
+  width: 1884px;
+  margin-left: 0;
+}
